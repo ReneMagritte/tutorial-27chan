@@ -60,7 +60,7 @@ Não se esqueça de uma descrição do que foi feito
 4. Solicite uma alteração no "repositório raiz"
 ![enter image description here](https://i.imgur.com/pVpqmg7.png "Solicitando uma alteração")
 
-5. Crio o Pull Request
+5. Crie o Pull Request
 ![enter image description here](https://i.imgur.com/lQdbHLd.png)
 
 ---
