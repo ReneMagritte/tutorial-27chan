@@ -54,4 +54,13 @@ Nessa altura, postarei o tutorial incompleto para demonstrá-los como funciona u
 ![enter image description here](https://i.imgur.com/oL1v23h.png "Modo de edição") 
 
 3. Proponha uma alteração
-![enter image description here](https://i.imgur.com/ZqZErjy.png "Propondo um alteração")
+![enter image description here](https://i.imgur.com/LCuvYFa.png "Propondo um alteração")
+Não se esqueça de uma descrição do que foi feito
+
+4. Solicite uma alteração no "repositório raiz"
+![enter image description here](https://i.imgur.com/pVpqmg7.png "Solicitando uma alteração")
+![enter image description here](https://i.imgur.com/lQdbHLd.png)
+
+---
+
+## É isso, anão. Você agora sabe como contribuir com nossa comunidade!
