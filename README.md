@@ -44,4 +44,14 @@ Entre no seu perfil e voilà! Você agora tem uma cópia daquele projeto.
 
 ### 5. Solicitando mudanças no projeto
 
-Nessa altura, postarei o tutorial incompleto para demonstrá-los como funciona um **Pull Request**.
+Nessa altura, postarei o tutorial incompleto para demonstrá-los como funciona um **Pull Request**. Imaginemos um cenário onde você quer terminar o tutorial incompleto. Você abrirá o arquivo que quer editar - nesse caso será o *README.md* - e editará o arquivo.
+	
+	
+1. Abra o arquivo
+ ![](https://i.imgur.com/0F7j9qb.png "Abrindo o arquivo") 
+
+2. Abra o modo de edição e faça suas modificações
+![enter image description here](https://i.imgur.com/oL1v23h.png "Modo de edição") 
+
+3. Proponha uma alteração
+![enter image description here](https://i.imgur.com/ZqZErjy.png "Propondo um alteração")
